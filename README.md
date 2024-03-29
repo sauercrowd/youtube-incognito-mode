@@ -2,7 +2,7 @@
 
 A chrome extension that lets you decide if videos you watch influence your Youtube suggestions.
 
-![](./media/screenshot_github.png)
+![](./media/demo.gif)
 
 ## Limitations
 
