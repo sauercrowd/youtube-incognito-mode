@@ -1,6 +1,6 @@
 # Youtube incognito mode
 
-A chrome extension that lets you decide if videos you watch influence your Youtube suggestions.
+A chrome extension that lets you decide if videos you watch influence your Youtube recommendations.
 
 ![](./media/demo.gif)
 
