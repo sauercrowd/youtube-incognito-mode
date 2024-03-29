@@ -5,9 +5,11 @@ function setToggledStyle(button, isPrivateModeEnabled) {
     if (isPrivateModeEnabled) {
         div.style.left = '20px';
         div.innerText = 'P';
+        div.style.backgroundColor = '#ef4444';
     } else {
         div.style.left = '-4px';
         div.innerText = '';
+        div.style.backgroundColor = '#34d399';
     }
 }
 
@@ -21,7 +23,6 @@ function onToggle() {
         setToggledStyle(button, newSetting);
 
         chrome.storage.local.set({ 'yt-private-mode': newSetting }, () => {
-            console.log("set", newSetting);
         });
     });
 }

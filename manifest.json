@@ -5,7 +5,6 @@
   "version": "1.0",
   "permissions": [
     "declarativeNetRequest",
-    "declarativeNetRequestWithHostAccess",
     "storage"
   ],
   "background": {
