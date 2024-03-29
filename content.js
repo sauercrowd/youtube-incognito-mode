@@ -60,7 +60,6 @@ function createButton() {
     div.style.color = 'white';
     div.style.justifyContent = 'center';
     div.style.alignItems = 'center';
-    // div.innerText = 'P'; // Add text inside the div
 
     button.appendChild(div);
 
