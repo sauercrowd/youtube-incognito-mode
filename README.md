@@ -2,6 +2,8 @@
 
 A chrome extension that lets you decide if videos you watch influence your Youtube recommendations.
 
+Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-incognito-mode/nolmnigomliekdkmellioaabncmlgfnj)
+
 ![](./media/demo.gif)
 
 ## Limitations
